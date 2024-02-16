@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "tamuramod:block/tamura_gallstone_ore"
+  }
+}

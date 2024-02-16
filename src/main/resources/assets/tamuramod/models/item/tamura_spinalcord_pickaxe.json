@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "tamuramod:item/tamura_spinalcord_pickaxe"
+
+  }
+}
